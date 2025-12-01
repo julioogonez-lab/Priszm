@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "PRISM app"
+git remote add origin https://github.com/YOUR-USERNAME/prism-app
+git push -u origin main
